@@ -35,6 +35,28 @@ The dataset contains 1,000 retail transactions with information about transactio
 - May 2023 recorded the highest monthly sales among the full months analyzed.
 
 ## Visualizations
+
+
+## Visualizations
+
+### 1. Sales by Product Category
+![Sales by Product Category](charts/Sales_by_product_category.png)
+
+### 2. Monthly Sales Trend
+![Monthly Sales Trend](charts/Monthly_Sales_Trend.png)
+
+### 3. Sales by Gender
+![Sales by Gender](charts/Sales_By_Gender.png)
+
+### 4. Sales by Gender and Product Category
+![Sales by Gender and Product Category](charts/Sales_By_Gender_And_Product_Category.png)
+
+### 5. Quantity Sold by Product Category
+![Quantity Sold by Product Category](charts/Quantity_Sold_By_Category.png)
+
+### 6. Customer Age Distribution
+![Customer Age Distribution](charts/Customer_Age_Distribution.png)
+
 ### Python Analysis
 The Jupyter Notebook includes charts for:
 - Sales by product category
